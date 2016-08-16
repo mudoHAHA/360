@@ -245,8 +245,8 @@ img{
 #middle02 .same b{
 	background-position:0 -385px;
 }
-#middle02{
-	padding-top:40px;
+#middle02,#middle03{
+	padding-top:80px;
 }
 #middle02 ul li{
 	width: 921px;
@@ -287,9 +287,6 @@ img{
 
 /********************************middle03*********************************/
 
-#middle03{
-	padding-top:40px;
-}
 #middle03 .same b{
 	background-position:-180px -385px;
 }
